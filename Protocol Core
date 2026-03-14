@@ -1,0 +1,35 @@
+TECHNICAL SPECIFICATIONS (LITE)
+
+1. Optical Rig Simulation
+
+To bypass the default AI aesthetic, the model must be forced to calculate specific focal distances.
+
+Focal Length
+
+AI Spatial Weighting
+
+24mm
+
+Increases peripheral expansion and rectilinear distortion.
+
+85mm
+
+Increases background compression and Z-axis isolation.
+
+Anamorphic
+
+Forces elliptical bokeh and horizontal flares.
+
+2. Atmospheric Scattering
+
+The use of the "Tyndall Effect" token is mandatory for cinematic depth. It instructs the model to calculate light interaction with suspended particulate matter rather than rendering flat polygons.
+
+3. Color Science Override
+
+Generic tokens like "beautiful colors" are deprecated. Use:
+
+Arri Alexa Color Science
+
+Log-C Profile
+
+Kodak Vision3 500T Emulation
